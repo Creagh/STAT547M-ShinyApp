@@ -10,7 +10,7 @@ This app uses the Gapminder dataset to explore the relationships between *GDP pe
 
 * **Data**: A tabular display of the Gapminder data for the country or countries currently selected.
 
-* **Linear Spline**: A dynamic scatter plot that produces a linear regression spline on the chosen data and let's the user specify the number of knots. This feature was based on the code that I wrote as part of my [Homework 10](https://github.com/STAT545-UBC/zz_creagh_briercliffe-coursework/tree/master/Homeworks/HW10).
+* **Linear Spline**: A dynamic scatter plot that produces a linear regression spline on the chosen data and let's the user specify the number of knots. This feature was based on the code that I wrote as part of my Homework 10.
 
 ### Running the App
 
